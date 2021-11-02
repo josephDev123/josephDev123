@@ -5,9 +5,9 @@ Full-stack web developer instructor, proficient at HTML, CSS, Bootstrap, JavaScr
 
 Skills: HTML / CSS / Bootstrap/ Javascript/ Reactjs/ PHP/ Laravel/ Firebase
 
-- 🔭 I’m currently working on Trello Software 
+- 🔭 I’m currently working on Trello Software(Clone) 
 - 🌱 I’m currently learning Reactjs 
-- 👯 I’m looking to collaborate on Open source 
+- 👯 I’m looking to collaborate on Real project 
 - 🤔 I’m looking for help with tech related subject 
 - 💬 Ask me about Tech related subject 
 - 📫 How to reach me: josephuzuegbu55@gmail.com 
