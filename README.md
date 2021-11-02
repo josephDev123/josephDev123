@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Uzuegbu, Joseph
-![Full-stack developer ](https://github.com/josephDev123/josephDev123/blob/main/images2.png)
+![Full-stack developer ](https://github.com/josephDev123/josephDev123/blob/main/images3.jpg)
 
 Full-stack web developer instructor, proficient at HTML, CSS, Bootstrap, JavaScript, React, Firebase, PHP, Laravel, Git. With the aforementioned programming language, i have Stamped on my keyboard and stain my hands by building scalable and secure web Apps.
 
