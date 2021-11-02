@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Uzuegbu, Joseph
-#### Full-stack developer 
+## Hi there 👋, I'm Uzuegbu, Joseph
 ![Full-stack developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Full-stack web developer instructor, proficient at HTML, CSS, Bootstrap, JavaScript, React, Firebase, PHP, Laravel, Git. With the aforementioned programming language, i have Stamped on my keyboard and stain my hands by building scalable and secure web Apps.
