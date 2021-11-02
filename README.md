@@ -1,16 +1,25 @@
-### Hi there, i'm Joseph👋
+### Hi there 👋, I'm Uzuegbu, Joseph
+#### Full-stack developer 
+![Full-stack developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**josephDev123/josephDev123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer instructor, proficient at HTML, CSS, Bootstrap, JavaScript, React, Firebase, PHP, Laravel, Git. With the aforementioned programming language, i have Stamped on my keyboard and stain my hands by building scalable and secure web Apps.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / Bootstrap/ Javascript/ Reactjs/ PHP/ Laravel/ Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Trello Software 
+- 🌱 I’m currently learning Reactjs 
+- 👯 I’m looking to collaborate on Open source 
+- 🤔 I’m looking for help with tech related subject 
+- 💬 Ask me about Tech related subject 
+- 📫 How to reach me: josephuzuegbu55@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josephDev123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joseph-uzuegbu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JosephUzuegbu)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephDev123)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=josephDev123&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=josephDev123)  
+
+![Profile views](https://gpvc.arturio.dev/josephDev123)  
