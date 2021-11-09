@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Uzuegbu, Joseph
-![Full-stack developer ](https://github.com/josephDev123/josephDev123/blob/main/images5.png)
 
 [<img src='https://github.com/josephDev123/josephDev123/blob/main/farzad-nazifi-p-xSl33Wxyc-unsplash.jpg' alt='github' height='500' width='1000'>](https://github.com/josephDev123)
 
