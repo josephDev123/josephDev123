@@ -5,7 +5,7 @@
 Full-stack web developer instructor, proficient at HTML, CSS, Bootstrap, JavaScript, React, Firebase, PHP, Laravel, Livewire, Git. With the aforementioned programming language, i have Stamped on my keyboard and stain my hands by building scalable and secure web Apps.
 
 ## Skills:
-HTML / CSS / Bootstrap/ Javascript/ Reactjs/ PHP/ Laravel/ Firebase
+HTML / CSS / Bootstrap/ Javascript/ Reactjs/ PHP/ Laravel / Livewire / Firebase /
 
 - 🔭 I’m currently working on Trello Software(Clone) 
 - 🌱 I’m currently learning Reactjs 
