@@ -7,12 +7,13 @@ Full-stack web developer instructor, proficient at HTML, CSS, Bootstrap, JavaScr
 ## Skills:
 HTML / CSS / Bootstrap/ Javascript/ Reactjs/ Redux/ PHP/ Laravel / Livewire / Firebase /
 
-- 🔭 I’m currently working on Trello Software(Clone) 
+- 🔭 I’m currently working on Twitter App(Clone) 
 - 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on Real project 
-- 🤔 I’m looking for help with tech related subject 
+- 🤔 I’m looking to help with tech related subject 
 - 💬 Ask me about Tech related subject 
-- 📫 How to reach me: josephuzuegbu55@gmail.com 
+- 📫 How to reach me: josephuzuegbu55@gmail.com
+-  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/josephDev123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joseph-uzuegbu//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@JosephUzuegbu)  
