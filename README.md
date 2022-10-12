@@ -5,7 +5,7 @@
 Full-stack web developer instructor, proficient in HTML, CSS, JavaScript, React, Firebase, Mongoose, Express, PHP, Laravel, Livewire, Git. With the aforementioned programming language, i have Stamped on my keyboard and stain my hands by building scalable and secure web Apps.
 
 ## Skills:
-HTML / CSS / Javascript/ Reactjs/ Nodejs / Express.js / Mongoose / Livewire / Firebase /
+HTML / CSS / Javascript/ Reactjs/ Nodejs / Express.js / MongoDb / Mongoose / Firebase / SQL
 
 - 🔭 I’m currently working on MERN App
 - 👯 I’m looking to collaborate on Real project 
