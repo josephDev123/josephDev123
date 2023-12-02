@@ -14,9 +14,9 @@ Thank you for visiting my profile and please feel free to reach out if you have 
 <p><img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="josephdev123" width='40%' height='45%' style='margin-bottom:2rem'/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephdev123&label=Profile%20views&color=0e75b6&style=flat" alt="josephdev123" /> </p>
 
-- 🔭 I’m currently working on [Video_conferencing web app](https://github.com/josephDev123/Video-chat)
+- 🔭 I’m currently working on [An E-commerce app](https://github.com/josephDev123/....)
 
-- 🌱 I’m currently learning **Nextjs, Cloudiary**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **any MERN Projects**
 
