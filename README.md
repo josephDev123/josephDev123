@@ -5,7 +5,7 @@
 
  I am a MERN stack developer with experience in building dynamic and scalable web applications.
 
-As a MERN stack developer, I specialize in building applications using MongoDB, Express.js, React, and Node.js. I have a deep understanding of the full stack development process and am able to use Tools and programming features to scale and optimized systems/Software for an excellent user experience.
+As a MERN stack developer, I specialize in building applications using MongoDB, Express.js, React, and Node.js. I have a deep understanding of the full stack development process and am able to use Tools and programming features to scale and optimize systems/Software for an excellent user experience.
 
 In addition to my technical skills, I am a team player with excellent communication and problem-solving skills. I am passionate about learning new technologies and techniques to improve the quality and efficiency of my work.
 
