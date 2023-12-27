@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Uzuegbu</h1>
-<h3 align="center">Building dynamic and scalable web applications with MERN stack expertise</h3>
+<h3 align="center">Building dynamic and scalable web applications</h3>
 
 [<img src='https://github.com/josephDev123/josephDev123/blob/main/thisisengineering-raeng-uyfohHiTxho-unsplash.jpg' alt='github' height='500' width='1000'>](https://github.com/josephDev123)
 
