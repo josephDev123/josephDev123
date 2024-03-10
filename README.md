@@ -3,9 +3,9 @@
 
 [<img src='https://github.com/josephDev123/josephDev123/blob/main/thisisengineering-raeng-uyfohHiTxho-unsplash.jpg' alt='github' height='500' width='1000'>](https://github.com/josephDev123)
 
- I am a MERN stack developer with experience in building dynamic and scalable web applications.
+ I am a Software developer with experience in building dynamic and scalable web applications.
 
-As a MERN stack developer, I specialize in building applications using MongoDB, Express.js, React, and Node.js. I have a deep understanding of the full stack development process and am able to use Tools and programming features to scale and optimize systems/Software for an excellent user experience.
+As a Software developer, I specialize in building applications using HTML, CSS, Tailwindcss, Javascript, Reactjs, Nextjs, Socket.io, MongoDB and Node.js. I have a an understanding of the full-stack development process and can use Tools and programming features to scale and optimize systems/Software for an excellent user experience.
 
 In addition to my technical skills, I am a team player with excellent communication and problem-solving skills. I am passionate about learning new technologies and techniques to improve the quality and efficiency of my work.
 
@@ -14,13 +14,13 @@ Thank you for visiting my profile and please feel free to reach out if you have 
 <p><img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="josephdev123" width='40%' height='45%' style='margin-bottom:2rem'/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephdev123&label=Profile%20views&color=0e75b6&style=flat" alt="josephdev123" /> </p>
 
-- 🔭 I’m currently working on [An E-commerce app](https://github.com/josephDev123/....)
+- 🔭 I’m currently working on [Chatting app](https://github.com/josephDev123/JoeWhatChats)
 
 - 🌱 I’m currently learning **FRAMER MOTION**
 
 - 👯 I’m looking to collaborate on **any MERN Projects**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **josephuzuegbu55@gmail.com**
 
