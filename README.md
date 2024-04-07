@@ -16,7 +16,7 @@ Thank you for visiting my profile and please feel free to reach out if you have 
 
 - 🔭 I’m currently working on [Chatting app](https://github.com/josephDev123/JoeWhatChats)
 
-- 🌱 I’m currently learning **FRAMER MOTION**
+- 🌱 I’m currently learning **WEBRTC**
 
 - 👯 I’m looking to collaborate on **any MERN Projects**
 
