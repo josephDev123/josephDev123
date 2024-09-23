@@ -16,7 +16,7 @@ Thank you for visiting my profile and please feel free to reach out if you have 
 
 - 🔭 I’m currently working on an [E-commerce app](https://shopping-ecommerce-gamma.vercel.app/) and contributing to Shortchase and Mimotar codebase
 
-- 🌱 I’m currently contributing to Shortchase, an E-commerce site, and learning **WEBRTC**
+- 🌱 I’m currently contributing to Shortchase, an E-commerce site.
 
 - 👯 I’m looking to collaborate on **any MERN Projects**
 
