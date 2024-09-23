@@ -7,7 +7,7 @@
 
 As a Software developer, I specialize in building applications using HTML, CSS, Tailwindcss, Javascript, Reactjs, Nextjs, Socket.io, MongoDB and Node.js. I have a an understanding of the full-stack development process and can use Tools and programming features to scale and optimize systems/Software for an excellent user experience.
 
-In addition to my technical skills, I am a team player with excellent communication and problem-solving skills. I am passionate about learning new technologies and techniques to improve the quality and efficiency of my work.
+I have actively contributed to notable projects, including Webmaxi (web crawler software), Mimotar (escrow service platform), and Eduvo (career counseling platform). These collaborations not only sharpened my technical expertise but also proved my ability to seamlessly handle complex projects and deliver results in fast-paced, dynamic environments.
 
 Thank you for visiting my profile and please feel free to reach out if you have any questions or would like to collaborate on a project.
 
