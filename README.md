@@ -9,12 +9,9 @@ Dedicated and results-driven Software Engineer with a passion for creating excep
 
 As a former Programming Instructor at New Horizons Computer Learning Centers, I honed my skills in student-centered strategies, project-based learning, and peer collaboration. Over two years, I taught courses in software development to over 100 undergraduate students each semester, fostering an engaging and innovative learning environment.
 
-In addition to my professional experience, I've undertaken and collaborated with several Engineers on several projects that showcase my technical proficiency and creative problem-solving. Noteworthy projects include the development of a versatile Whiteboard application, a Mentor/Mentee platform(IT professionals can meet with mentors for career counseling), a web Crawler app, and a collaborative effort in building an E-commerce app. These projects reflect my commitment to delivering seamless, user-friendly applications through comprehensive front-end development and logic.
+In addition to my professional experience, I've undertaken and collaborated with several Engineers on several projects that showcase my technical proficiency and creative problem-solving. Noteworthy projects include the development of a versatile Whiteboard application, a Mentor/Mentee platform(IT professionals can meet with mentors for career counseling), a web SEO service app, and a collaborative effort in building an E-commerce app. These projects reflect my commitment to delivering seamless, user-friendly applications through comprehensive front-end development and logic.
 
 While my primary focus has been on frontend development, I also possess knowledge in backend technologies, particularly Node.js and Mongoose. This allows me to contribute effectively to end-to-end application development, ensuring a holistic approach to project execution.
-
-Let's connect and explore opportunities to collaborate on exciting ventures. Feel free to reach out via email at josephuzuegbu55@gmail.com or connect with me on LinkedIn. My GitHub profile is also accessible for a closer look at my coding prowess.
-I have actively contributed to notable projects, including Webmaxi (web crawler software), Mimotar (escrow service platform), and Eduvo (career counseling platform). These collaborations not only sharpened my technical expertise but also proved my ability to seamlessly handle complex projects and deliver results in fast-paced, dynamic environments.
 
 Thank you for visiting my profile and please feel free to reach out if you have any questions or would like to collaborate on a project.
 
@@ -23,7 +20,7 @@ Thank you for visiting my profile and please feel free to reach out if you have 
 
 - 🔭 I’m currently working on an [E-commerce app](https://shopping-ecommerce-gamma.vercel.app/) and contributing to Shortchase and Mimotar codebase
 
-- 🌱 I’m currently contributing to Shortchase, an E-commerce site.
+- 🌱 I’m currently contributing to Shortchase, an E-commerce site and mentor/Mentee platform.
 
 - 👯 I’m looking to collaborate on **any MERN Projects**
 
