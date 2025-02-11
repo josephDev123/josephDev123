@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Joseph Uzuegbu</h1>
-<h3 align="center">Building dynamic and scalable web applications</h3>
+<h3 align="center">I am a Software developer with experience in building dynamic and scalable web applications.</h3>
 
 [<img src='https://github.com/josephDev123/josephDev123/blob/main/thisisengineering-raeng-uyfohHiTxho-unsplash.jpg' alt='github' height='500' width='1000'>](https://github.com/josephDev123)
 
- I am a Software developer with experience in building dynamic and scalable web applications.
-
-Dedicated and results-driven Software Engineer with a passion for creating exceptional user experiences and driving innovation in the tech industry. My expertise lies in a versatile set of languages and libraries, including HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, and more. I thrive in collaborative environments, as evidenced by my current role as a Software Engineer at Shortchase, where I contribute to building a cutting-edge peer-to-peer betting platform. I've played a key role in elevating the sprint task completion rate from 30% to an impressive 70%.
+Dedicated and results-driven Software Engineer with a passion for building scalable, high-performance applications and driving innovation in the tech industry. My expertise lies in a versatile set of languages and libraries, including HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Nodejs, MongoDB, socket.io, AWS EC2, S3, AWS Cloudfront, Github action, and more. I thrive in collaborative environments, as evidenced by my previous role as a Software Engineer at Shortchase, where I contribute to building a cutting-edge peer-to-peer betting platform. I've played a key role in elevating the sprint task completion rate from 30% to an impressive 70%.
 
 As a former Programming Instructor at New Horizons Computer Learning Centers, I honed my skills in student-centered strategies, project-based learning, and peer collaboration. Over two years, I taught courses in software development to over 100 undergraduate students each semester, fostering an engaging and innovative learning environment.
 
-In addition to my professional experience, I've undertaken and collaborated with several Engineers on several projects that showcase my technical proficiency and creative problem-solving. Noteworthy projects include the development of a versatile Whiteboard application, a Mentor/Mentee platform(IT professionals can meet with mentors for career counseling), a web SEO service app, and a collaborative effort in building an E-commerce app. These projects reflect my commitment to delivering seamless, user-friendly applications through comprehensive front-end development and logic.
+In addition to my professional experience, I've undertaken and collaborated with several Engineers on several projects that showcase my technical proficiency and creative problem-solving. Noteworthy projects include the development of a Mentor/Mentee platform(IT professionals can meet with mentors for career counseling), a web SEO app, and an E-commerce app. These projects reflect my commitment to delivering seamless, user-friendly applications through comprehensive front-end development and logic.
 
-While my primary focus has been on frontend development, I also possess knowledge in backend technologies, particularly Node.js and Mongoose. This allows me to contribute effectively to end-to-end application development, ensuring a holistic approach to project execution.
+Beyond front-end development, I specialize in backend technologies, including Node.js, MongoDB, CI/CD (GitHub Actions), Socket.io, Nginx, and AWS infrastructures. I configure Nginx to enhance security and efficiently manage high-traffic requests, optimize Node.js applications for concurrency, and implement design patterns for scalable and maintainable code. Additionally, I leverage containerization to streamline deployment, improve scalability, and maintain environment consistency. My approach to backend development is grounded in clean architecture principles, ensuring the creation of robust, high-performance applications that support seamless user experiences.
+
+Let's connect and explore opportunities to collaborate on exciting ventures. Feel free to reach out via email at josephuzuegbu55@gmail.com or connect with me on LinkedIn. My GitHub profile is also accessible for a closer look at my coding prowess.
 
 Thank you for visiting my profile and please feel free to reach out if you have any questions or would like to collaborate on a project.
 
@@ -20,7 +20,7 @@ Thank you for visiting my profile and please feel free to reach out if you have 
 
 - 🔭 I’m currently working on an [E-commerce app](https://shopping-ecommerce-gamma.vercel.app/), [Eduvo dashboard(Mentor/Mentee platform)](https://eduvo-client.vercel.app/dashboard) and contributing to [Mimotar codebase](https://github.com/mimotar/mimotar-fe) and [Sara codebase](https://github.com/kcblaq/sara)
 
-- 👯 I’m looking to collaborate on **any MERN Projects**
+- 👯 I’m looking to collaborate on **any Projects**
 
 - 💬 Ask me about **Programming**
 
