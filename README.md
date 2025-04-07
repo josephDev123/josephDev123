@@ -5,9 +5,7 @@
 
 Dedicated and results-driven Software Engineer with a passion for building scalable, high-performance applications and driving innovation in the tech industry. My expertise lies in a versatile set of languages and libraries, including HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, Nodejs, MongoDB, socket.io, AWS EC2, S3, AWS Cloudfront, Github action, and more.
 
-My expertise includes accelerating development efficiency and maintainability by crafting reusable and extensible components, simplifying complex APIs with the Facade design pattern, and creating custom hooks to optimize performance and scalability—among many other contributions.
-
-I thrive in collaborative environments, as evidenced by my previous role as a Software Engineer at Shortchase, where I contribute to building a cutting-edge peer-to-peer betting platform. Designed reusable components and implemented API and client logic for the marketplace page, resulting in a 20% increase in user engagement.
+My expertise lies in accelerating development, enhancing production efficiency, and ensuring scalability and maintainability by crafting reusable, extensible components; simplifying complex APIs using the Facade design pattern; creating custom hooks to boost performance; and building APIs capable of handling parallel and concurrent requests on both the frontend and backend.
 
 In addition to my professional experience, I've undertaken and collaborated with several Engineers on several projects that showcase my technical proficiency and creative problem-solving. Noteworthy projects include the development of a Mentor/Mentee platform Dashboard(IT professionals can meet with mentors for career counseling), a web SEO app, and an E-commerce app, etc. These projects reflect my commitment to delivering seamless, user-friendly applications through comprehensive front-end development and logic.
 
