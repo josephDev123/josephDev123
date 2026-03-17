@@ -9,7 +9,7 @@ My Frontend expertise lies in accelerating development, enhancing production eff
 
 Skilled in backend development, I go beyond building APIs — I architect extensible systems, configure Nginx to handle high traffic securely, and optimize Node.js applications for concurrency and performance. I integrate proven design patterns to ensure scalability and maintainability, and leverage containerization to streamline deployment and maintain environment consistency. My backend approach is rooted in clean architecture principles, enabling the development of robust, high-performance applications that deliver seamless user experiences.
 
-Collaborated with multiple engineers on various projects, demonstrating technical proficiency and creative problem-solving. Noteworthy projects include developing a School CMS software, an Escrow platform, and an e-commerce app. These projects reflect my commitment to delivering seamless applications.
+Collaborated with multiple engineers on various projects, demonstrating technical proficiency and creative problem-solving. Noteworthy projects include developing a School CMS software, an Escrow platform, etc. These projects reflect my commitment to delivering seamless applications.
 
 Let's connect and explore opportunities to collaborate on exciting ventures. Feel free to reach out via email at josephuzuegbu55@gmail.com or connect with me on LinkedIn. My GitHub profile is also accessible for a closer look at my coding prowess.
 
@@ -18,7 +18,7 @@ Thank you for visiting my profile and please feel free to reach out if you have 
 <p><img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="josephdev123" width='40%' height='45%' style='margin-bottom:2rem'/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephdev123&label=Profile%20views&color=0e75b6&style=flat" alt="josephdev123" /> </p>
 
-- 🔭 I’m currently working on an [myStarTracker Software](https://github.com/StellaMarisSchools/SMSWEBSITE-CMS), [Gas station API](https://github.com/josephDev123/Gas-station-mgt-api) and contributing to [Mimotar codebase](https://github.com/mimotar/mimotar-fe) 
+- 🔭 I’m currently working on an [SMSWEBSITE-CMS Software](https://github.com/StellaMarisSchools/SMSWEBSITE-CMS), [Gas station API](https://github.com/josephDev123/Gas-station-mgt-api) and contributing to [Mimotar codebase](https://github.com/mimotar/mimotar-fe) 
 
 - 👯 I’m looking to collaborate on **any Projects**
 
